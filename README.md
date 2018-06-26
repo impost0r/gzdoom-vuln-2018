@@ -49,7 +49,7 @@ of course, you couldn't see that in the following pictures, so here:
 
 a nice tip - PEDA doesn't play too nice with windows, nor does gdbserver in my experience. quite a shame.
 
-#OMGWTF DO I DO NOW????
+# OMGWTF DO I DO NOW????
 
 nothing, at the moment. though i'd love to see a working PoC (because working with windows is a pain in the ass imo) (i am also including my debug builds alongside my testcases) i will be forwarding this to the gzdoom developers.
 
