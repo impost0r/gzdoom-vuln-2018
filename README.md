@@ -45,17 +45,21 @@ those random characters are generized by BFF's minimized.py script, moreover, $r
 
 of course, you couldn't see that in the following pictures, so here:
 
-![ripcontrol[(https://i.imgur.com/6L1cual.png)
+![rip](https://i.imgur.com/6L1cual.png)
 
 a nice tip - PEDA doesn't play too nice with windows, nor does gdbserver in my experience. quite a shame.
 
 #OMGWTF DO I DO NOW????
 
-nothing, at the moment. though i'd love to see a working PoC (because working with windows is a pain in the ass imo) i will be forwarding this to the gzdoom developers.
+nothing, at the moment. though i'd love to see a working PoC (because working with windows is a pain in the ass imo) (i am also including my debug builds alongside my testcases) i will be forwarding this to the gzdoom developers.
 
 keep on ripping and tearing, and keep an eye out for possible new releases. if you are somehow posessed by satan himself and want to donate, i accept the following
 
 BTC: 39cvJfa9nty25qo2neeb5vDUbijHRHGxFg
+
 LTC: MAneR2K3ajiS3YEWV5AhBPnKYBPaAAaKf4
+
 ETH: 0x9E2dD8f47653616b58FAca5FF3058D23eDF883592
+
 BCH: qpfqmunh2qdtv45g7rvtfr0lgx3amz9zacdv35uwyk
+
