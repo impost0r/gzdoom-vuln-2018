@@ -68,12 +68,12 @@ BCH: qpfqmunh2qdtv45g7rvtfr0lgx3amz9zacdv35uwyk
 
 Tools used:
 
-*Binary Ninja
-*IDA Pro
-*gdb (+ gdb-peda)
-*SLATE
-*wadext
-*HxD
-*Kaitai Struct definition for DOOM .wad format 
+* Binary Ninja
+* IDA Pro
+* gdb (+ gdb-peda)
+* SLATE
+* wadext
+* HxD
+* Kaitai Struct definition for DOOM .wad format 
 
 $rip and tear, my friends
