@@ -66,3 +66,14 @@ ETH: 0x9E2dD8f47653616b58FAca5FF3058D23eDF883592
 
 BCH: qpfqmunh2qdtv45g7rvtfr0lgx3amz9zacdv35uwyk
 
+Tools used:
+
+* Binary Ninja
+* IDA Pro
+* gdb (+ gdb-peda)
+* SLATE
+* wadext
+* HxD
+* Kaitai Struct definition for DOOM .wad format 
+
+$rip and tear, my friends
