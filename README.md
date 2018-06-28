@@ -80,4 +80,4 @@ $rip and tear, my friends
 
 # Postmortem
 
-Devs added lump size validation in to `file_wad.cpp`. Code can be seen here : cbe4c9c5c1ea2cbb193d548e96e9902f03faa61a
+Devs added lump size validation in to `file_wad.cpp`. Code can be seen here : coelckers/gzdoom@cbe4c9c5c1ea2cbb193d548e96e9902f03faa61a
