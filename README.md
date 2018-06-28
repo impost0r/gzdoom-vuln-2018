@@ -54,7 +54,7 @@ a nice tip - PEDA doesn't play too nice with windows, nor does gdbserver in my e
 
 
 
-nothing, at the moment. ~~though i'd love to see a working PoC~~ HAHAHAHAHA DISREGARD THAT, WORKING POC (because working with windows is a pain in the ass imo) (i am also including my debug builds alongside my testcases) i will be forwarding this to the gzdoom developers.
+nothing, at the moment. ~~though i'd love to see a working PoC~~ HAHAHAHAHA DISREGARD THAT, WORKING POC (control over $rip, no exec yet) forwarded to the gzdoom developers.
 
 keep on ripping and tearing, and keep an eye out for possible new releases. if you are somehow posessed by satan himself and want to donate, i accept the following
 
