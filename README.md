@@ -1,7 +1,7 @@
 # gzdoom-vuln
 after a few days and many xanax pills i've decided to release my research. enjoy!
 
-## this vulnerability does *NOT* seem to affect macOS.
+## this vulnerability does *NOT* seem to affect macOS or Linux.
 
 few days ago i was bored and decided to fuzz my favorite DOOM source-port, GZDoom. this is one of many.
 
