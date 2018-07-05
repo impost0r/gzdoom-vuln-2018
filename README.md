@@ -81,3 +81,5 @@ $rip and tear, my friends
 # Postmortem
 
 Devs added lump size validation in to `file_wad.cpp`. Code can be seen [here](https://github.com/coelckers/gzdoom/commit/cbe4c9c5c1ea2cbb193d548e96e9902f03faa61a)
+
+Currently working on developing code-execution exploits without NX or ASLR. See [here](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-exploit-guard/customize-exploit-protection) for details on how to disable these features per-process on Windows 10. 
