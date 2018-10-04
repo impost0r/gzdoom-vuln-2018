@@ -87,4 +87,6 @@ Currently working on developing code-execution exploits without NX or ASLR. See 
 Current state: (gzdoom-pack-exploit.py)
 ![img3](https://i.imgur.com/V1q0rka.png)
 
+We're still unable to execute code, but in the end we have sufficient control over all registers; regardless of NX or ASLR.
+
 ### magic number for buffer b4 overflow seems to be 32800
