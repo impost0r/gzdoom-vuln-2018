@@ -50,27 +50,25 @@ of course, you couldn't see that in the following pictures, so here:
 
 a nice tip - PEDA doesn't play too nice with windows, nor does gdbserver in my experience. quite a shame.
 
-# OMGWTF DO I DO NOW????
+# What Do??
 
 
 
 nothing, at the moment. ~~though i'd love to see a working PoC~~ HAHAHAHAHA DISREGARD THAT, WORKING POC (control over $rip, no exec yet) forwarded to the gzdoom developers.
 
-keep on ripping and tearing, and keep an eye out for possible new releases. if you are somehow posessed by satan himself and want to donate, i accept the following
+keep on ripping and tearing, and keep an eye out for possible new releases. if you are somehow posessed by satan himself and want to donate, i accept 
 
-BTC: 39cvJfa9nty25qo2neeb5vDUbijHRHGxFg
+BTC: 3GNr9gEmmBzAZkmxWM5GuYRd9A2wQmU9Gq
 
-LTC: MAneR2K3ajiS3YEWV5AhBPnKYBPaAAaKf4
+LTC: M9yybfEZeaUBbBLxqZqsGgJKNbbTeFJG5c
 
-ETH: 0x9E2dD8f47653616b58FAca5FF3058D23eDF883592
-
-BCH: qpfqmunh2qdtv45g7rvtfr0lgx3amz9zacdv35uwyk
+ETH: 0xec5d233ca4c99bdae6053fc258c0f31c5ef24690
 
 Tools used:
 
 * Binary Ninja
 * IDA Pro
-* gdb (+ gdb-peda)
+* gdb (+ gdb-peda) (on Windows, no less.)
 * SLATE
 * wadext
 * HxD
