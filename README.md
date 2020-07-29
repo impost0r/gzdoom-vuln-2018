@@ -1,5 +1,5 @@
 # gzdoom-vuln
-after a few days and many xanax pills i've decided to release my research. enjoy!
+after a few days and many gummy bear vitamins i've decided to release my research. enjoy!
 
 ## this vulnerability does *NOT* seem to affect macOS or Linux.
 
